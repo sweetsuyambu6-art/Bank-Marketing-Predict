@@ -1,10 +1,5 @@
-streamlit
-plotly
-pandas
-scikit-learn
-xgboost
-catboost
-shap
-matplotlib
-numpy
+# requirements.txt
 pytest
+pandas
+numpy
+scikit-learn
