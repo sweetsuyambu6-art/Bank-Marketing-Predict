@@ -6,3 +6,5 @@ xgboost
 catboost
 shap
 matplotlib
+numpy
+pytest
